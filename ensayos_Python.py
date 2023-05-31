@@ -1,3 +1,7 @@
+#Ronald_Males
+#Ensayos
+#IEM_ESCUELA_NORMAL_PASTO
+#11-1
 def create_essay(title, introduction, body, conclusion):
     essay = f"Titulo: {title}\n\n"
     essay += "Introducción:\n"
