@@ -1,3 +1,7 @@
+#Santiago_Enriquez
+#Biografia
+#IEM_ESCUELA_NORMAL_PASTO
+#11-1
 def crear_biografia(nombre, fecha_nacimiento, lugar_nacimiento, descripcion):
     biografia = f"Biografía de {nombre}\n\n"
     biografia += f"Fecha de nacimiento: {fecha_nacimiento}\n"
